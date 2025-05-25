@@ -1,0 +1,18 @@
+{
+  "nombreCurso": "Curso 1",
+  "codigo": "123456",
+  "personas": [
+    {
+      "nombre": "Lucas",
+      "edad": 18,
+      "dni": "11223344",
+      "sexo": "M"
+    },
+    {
+      "nombre": "Julieta",
+      "edad": 20,
+      "dni": "11313414",
+      "sexo": "F"
+    }
+  ]
+}
